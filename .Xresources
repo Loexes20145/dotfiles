@@ -1,0 +1,1 @@
+pidof picom 1> /dev/null || picom --config $HOME/.config/picom/picom.conf &

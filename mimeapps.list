@@ -1,0 +1,20 @@
+[Added Associations]
+application/x-shellscript=nvim.desktop;code-oss.desktop;
+application/octet-stream=code-oss.desktop;
+text/plain=code-oss.desktop;vim.desktop;
+inode/directory=code-oss.desktop;
+image/svg+xml=code-oss.desktop;
+image/x-xcursor=feh.desktop;
+video/mp4=vlc.desktop;
+text/x-nfo=nvim.desktop;
+application/x-zerosize=code-oss.desktop;
+text/css=vim.desktop;
+image/jpeg=gimp.desktop;
+
+[Default Applications]
+application/octet-stream=code-oss.desktop
+image/x-xcursor=feh.desktop
+application/x-zerosize=code-oss.desktop
+x-scheme-handler/heroic=heroic.desktop
+x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
+x-scheme-handler/discord-460807638964371468=discord-460807638964371468.desktop

@@ -1,0 +1,13 @@
+# Lines configured by zsh-newuser-install
+# End of lines configured by zsh-newuser-install
+
+# Exemple avec des couleurs
+#     %n : Nom de l'utilisateur.
+#     %m : Nom de l'hôte (machine).
+#     %~ : Répertoire actuel (relatif au répertoire de l'utilisateur). 
+#     %# : Affiche le symbole '#' si vous êtes en tant que super-utilisateur (root), ou '$' sinon
+#     %F{color} est utilisé pour définir la couleur de début et %f pour réinitialiser la couleur à la valeur par défaut.
+PS1='%F{blue}%n%f@%F{green}%m%f:%F{yellow}%~%f %F{red}%#%f '
+
+neofetch
+
